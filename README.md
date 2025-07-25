@@ -9,7 +9,7 @@
 ---
 
 ## 📁 Estructura del proyecto
-
+```
 gestor-contactos-poo/
 │
 ├── classes/ # Clases que contienen la lógica del sistema (modelo)
@@ -24,7 +24,7 @@ gestor-contactos-poo/
 │ └── procesar_editar.php # Script que procesa el formulario y edita los datos del contacto. 
 │
 └── README.md # Documentación y guía del proyecto
-
+```
 ---
 
 ## ⚙️ Configuración de la base de datos
